@@ -1,5 +1,3 @@
-# OOPD-A1
-This assignment contains basic programming practices without using standard C/C++ library
 
 # OOPD-A1
 This assignment contains basic programming practices without using standard C/C++ library
