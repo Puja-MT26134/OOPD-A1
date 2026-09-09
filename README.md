@@ -73,4 +73,11 @@ sudo apt update
 sudo apt install build-essential nasm -y
 ```
 
-
+##### AI Prompts
+- g++ -nostdlib -fno-exceptions -fno-rtti main.cpp -o main2.out.Can I use this, if not then why?
+- how to fix the issue (regarding the entry point warning).
+- Shared terminal output showing a segmentation fault and said it still gives a segfault.
+- Shared a git push authentication failure error.
+- "No such file" nasm error and a "BlockStandardIO.h not found" compile error.
+- Shared their allocateNames() code with bugs and asked where they were going wrong, requesting identification of the issues.
+- Shared their buggy q5.cpp code (with resizeNames nested inside display(), missing copyCount, class name typo q4 vs q5, etc.) and asked where the mistakes were.
